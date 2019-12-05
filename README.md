@@ -5,7 +5,7 @@ This interactive app allows users to view, create, and RSVP to events (referred 
 ## Important Links
   - [Deployed front end client](https://ga-zero-to-hero.github.io/beehive-client/)
   - [Front end client repository](https://github.com/ga-zero-to-hero/beehive-client)
-  - [Deployed back end API](https://vast-depths-99590.herokuapp.com/)
+  - [Deployed back end API](https://tranquil-tor-91715.herokuapp.com/)
   - [GitHub Repo for project's back end](https://github.com/ga-zero-to-hero/beehive-api)
 
 ## Back-end Technologies Used
