@@ -3,10 +3,10 @@
 This interactive app allows users to view, create, and RSVP to events (referred to as 'listings' throughout the code). In addition, the user can view all events to which they've RSVPed, and view, modify or delete events they've created.
 
 ## Important Links
-  - [Deployed front end client](https://ga-zero-to-hero.github.io/beehive-client/)
-  - [Front end client repository](https://github.com/ga-zero-to-hero/beehive-client)
+  - [Deployed front end client](https://tylerr36.github.io/beehive-client/)
+  - [Front end client repository](https://github.com/tylerr36/beehive-client)
   - [Deployed back end API](https://tranquil-tor-91715.herokuapp.com/)
-  - [GitHub Repo for project's back end](https://github.com/ga-zero-to-hero/beehive-api)
+  - [GitHub Repo for project's back end](https://github.com/tylerr36/beehive-api)
 
 ## Back-end Technologies Used
   - MongoDB
